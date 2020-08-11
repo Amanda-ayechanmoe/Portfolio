@@ -1,0 +1,14 @@
+.education_area p::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 90%;
+  margin: 10px;
+  background: #b6e1f6;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}

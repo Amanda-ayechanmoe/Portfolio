@@ -6788,3 +6788,16 @@ h6 {
   font-size: 12px;
 }
 
+.education_area {
+  padding-bottom: 120px;
+  padding-top: 75px;
+}
+
+@media (max-width: 767px) {
+  /* line 1, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_counter.scss */
+  .education_area {
+    padding-bottom: 30px;
+    padding-top: 60px;
+  }
+}
+
